@@ -1,2 +1,6 @@
 This is the original line of text.
+<<<<<<< HEAD
 This is a change on the master branch.
+=======
+This is a change on the branch newBranch.
+>>>>>>> newBranch
