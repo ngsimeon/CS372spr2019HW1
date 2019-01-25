@@ -1,2 +1,1 @@
-This is some text in a file.
-These are some changes on the new branch.
+This is the original line of text.
